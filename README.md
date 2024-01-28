@@ -14,7 +14,7 @@ This project is purely implemented for the changing the Gray scale Image to colo
 Technologies used are :
 
 Programming Language : Python
-Libraries: numpy, pandas, torch
+Libraries: numpy, pandas, torch etc
 
 
 ## Getting Started
